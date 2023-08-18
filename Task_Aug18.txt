@@ -13,7 +13,7 @@ Concatenate FullName function
 Calculate age in months function
 
 Push your code to git repo
-https://github.com/fsdbatchjuly/JavaOOPS.git
+https://github.com/fsdbatchjuly/OOPSPractice.git
 
 
 
