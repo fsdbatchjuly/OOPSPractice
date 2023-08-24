@@ -9,8 +9,7 @@ Kerala				35330888		  114840			Thiruvananthapuram
 
 Output
 
- 
-
+ State is Telangana , It's population is 342323, it's Area 3222Sq... and Hyderabad is the Capital.
 
 
 
