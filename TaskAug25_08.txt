@@ -1,0 +1,22 @@
+Write a program 
+Create a state names,population,area,captial arrays and print as follows
+
+State Name 			Population     		    Area      			Captial
+	
+Telangana			37725000		  114840			Hyderabad
+Andhra Pradesh			52883163		  160205				?
+Kerala				35330888		  114840			Thiruvananthapuram
+
+
+Create a class for States, it has properties and methods 
+
+Properties like.. area population and capital
+Methods like Area has to in Square meters (write logic to convert area from kilo meters to Square meters)
+
+Then 
+
+Create objects for each state to access all properties & method from States class.
+
+
+
+
