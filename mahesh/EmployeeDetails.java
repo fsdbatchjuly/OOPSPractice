@@ -37,8 +37,11 @@ public class EmployeeDetails {
 		return SalaryPerMonth;
 	}
 	
+	
+	
 	void getEmployeeDetails() {
 		
+		System.out.println("Employee Details");
 		System.out.println("Full Name of the faculty is: " +this.getfullName(this.fName, this.lName));
 		System.out.println("Email of the faculty is: " +this.email);
 		System.out.println("Age of the faculty in months is: " +this.getageinMonths(this.age));

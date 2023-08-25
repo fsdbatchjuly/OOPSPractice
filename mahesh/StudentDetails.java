@@ -43,7 +43,7 @@ public class StudentDetails {
 	}
 	
 	void getStudentDetails() {
-		
+		System.out.println("Student Details");
 		System.out.println("Full Name of the student is: " +this.getfullName(this.firstName, this.lastName));
 		System.out.println("Email of the student is: " +this.email);
 		System.out.println("Phone number of the student is: " +this.phno);
