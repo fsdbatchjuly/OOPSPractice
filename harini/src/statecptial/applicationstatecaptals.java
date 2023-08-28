@@ -1,15 +1,29 @@
-package statecptial;
 
-public class applicationstatecaptals {
+package com.y4j.oops.states;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+public class States {
 	
-	statedetalis telanganahyderabad=new statedetails (" telangana"," hyderabad",(long )35193978,(char) 114840);
-	telanganahyderabad.statedetails();
-   	 
-		
+	   static String StateName;
+	   static long Population;
+	   static long Area;
+	  static String Capital;
+
+	States(String StateName ,  long Population,  long Area , String Capital ){
+         this.StateName = "StateName";
+         this.Population = Population;
+         this.Area = Area;
+         this.Capital = "Capital";
+	}
+	 
+
+	
+	static void displayStateInfo() {
+        
+		System.out.println("State is " + StateName + ", Its population is " + Population +", Its area is " + Area + " Sq..., and " + Capital + " is the capital.");
+                           
+    }
+	
+}   
 		}
 		}
 
