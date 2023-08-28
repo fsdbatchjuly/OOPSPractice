@@ -1,0 +1,179 @@
+package com.y4j.harini.oopsclassobjectinheritance;
+
+public class applicationmain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//classes,objects
+		//inheritance
+		
+		student shivani=new student();
+		shivani. firstName="shi";
+		shivani.lastName="vani";
+		shivani.email="shivani@gmail.com";
+		shivani.age=22;
+		shivani.address="uppal";
+		shivani.phnno=923456789;
+		shivani. gender='F';
+		
+		student upendrachary=new student();
+		 upendrachary. firstName="upendra";
+		 upendrachary.lastName="chary";
+		 upendrachary.email="upendrachary@gmail.com";
+		 upendrachary.age=26;
+		 upendrachary.address="ssrnagar";
+		 upendrachary.phnno=985433676;
+		  upendrachary. gender='M';
+
+		student madhavi=new student();
+		madhavi. firstName="ma";
+		madhavi.lastName="dhavi";
+		madhavi.email="madhavi@gmail.com";
+		madhavi.age=23;
+		madhavi.address="almasguda";
+		madhavi.phnno=746649884;
+		madhavi. gender='F';
+		
+		student akhil=new student();
+		akhil. firstName="akhil";
+		akhil.lastName="chary";
+		akhil.email="akhilchary@gmail.com";
+		akhil.age=25;
+		akhil.address="meerpet";
+		akhil.phnno=746649888;
+		akhil. gender='M';
+		
+		student mayuri=new student();
+		mayuri. firstName="mayuri";
+		mayuri.lastName="b";
+		mayuri.email="mayuri12@gmail.com";
+		mayuri.age=20;
+		mayuri.address="narapally";
+		mayuri.phnno=897654334;
+		mayuri. gender='F';
+		
+		student sreevani=new student();
+		sreevani. firstName="sreevani";
+		sreevani.lastName="m";
+		sreevani.email="sreevani@gmail.com";
+		sreevani.age=25;
+		sreevani.address="santhoshnagar";
+		sreevani.phnno=94564595;
+		sreevani. gender='F';
+
+		student umarani=new student();
+		umarani. firstName="uma";
+		umarani.lastName="rani";
+		umarani.email="umarani@gmail.com";
+		umarani.age=21;
+		umarani.address="lbnagar";
+		umarani.phnno=989743357;
+		umarani. gender='F';
+
+
+		student alekya=new student();
+		alekya. firstName="alekya";
+		alekya.lastName="b";
+		alekya.email="alekya@gmail.com";
+		alekya.age=24;
+		alekya.address="banglaru";
+		alekya.phnno=989743357;
+		alekya. gender='F';
+
+		student harinibanala=new student();
+		harinibanala. firstName="harini";
+		harinibanala.lastName="banala";
+		harinibanala.email="harinibanala@gmail.com";
+		harinibanala.age=23;
+		harinibanala.address="suryapet";
+		harinibanala.phnno=987754578;
+		harinibanala. gender='F';
+		
+		student pranathi=new student();
+		pranathi. firstName="pranathi";
+		pranathi.lastName="a";
+		pranathi.email="pranathi@gmail.com";
+		pranathi.age=23;
+		pranathi.address="malapet";
+		pranathi.phnno=89423229;
+		pranathi. gender='F';
+		
+		teacher dinesh =new teacher();
+		dinesh . firstName="dinesh";
+		dinesh.lastName="sir";
+		dinesh.email="dineshsir@gmail.com";
+		dinesh.age=26;
+		dinesh.address="hyderabad";
+		dinesh.phnno=98765432;
+		dinesh. gender='M';
+
+		teacher anil =new teacher();
+		anil. firstName="anil";
+		anil.lastName="sir";
+		anil.email="anilsir@gmail.com";
+		anil.age=25;
+		anil.address="delhi";
+		anil.phnno=789643353;
+		anil. gender='M';
+
+		teacher rahul =new teacher();
+		rahul. firstName="rahul";
+		rahul.lastName="sir";
+		rahul.email="rahulsir@gmail.com";
+		rahul.age=28;
+		rahul.address="mumbi";
+		rahul.phnno=865746573;
+		rahul. gender='M';
+		
+
+employee naveen =new employee();
+naveen. firstName="naveen";
+naveen.lastName="kumar";
+naveen.email="naveen@gmail.com";
+naveen.age=28;
+naveen.address="jiyaguda";
+naveen.phnno=89765446;
+naveen. gender='M';
+
+
+employee kavya =new employee();
+kavya. firstName="kavya";
+kavya.lastName="sri";
+kavya.email="kavyasri@gmail.com";
+kavya.age=277;
+kavya.address="lucknow";
+kavya.phnno=765532467;
+kavya. gender='F';
+
+
+		
+	}
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
