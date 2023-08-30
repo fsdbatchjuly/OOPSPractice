@@ -1,0 +1,16 @@
+Write a program 
+Create a state names,population,area,captial arrays and print as follows
+
+State Name 			Population     		    Area      			Captial
+	
+Telangana			37725000		  114840			Hyderabad
+Andhra Pradesh			52883163		  160205				?
+Kerala				35330888		  114840			Thiruvananthapuram
+
+Output
+
+ State is Telangana , It's population is 342323, it's Area 3222Sq... and Hyderabad is the Capital.
+
+
+
+
